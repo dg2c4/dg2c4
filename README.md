@@ -1,17 +1,19 @@
+
+<h1 align="center">_Hi 👋, I'm dg2c4_</h1>
+
 # _About Me:_
 
 
+<br clear="both" >
+<img align="lefth" height="200" src="https://i.pinimg.com/originals/ed/24/16/ed241641f62d5257e7cdd75715823846.gif" />
+###
 
 <br clear="both">
 <img align="right" height="200" src="https://i.pinimg.com/originals/c1/09/f8/c109f881992bf2ecc2faad720a31be3f.gif"  />
 ###
 
-<p clear="both" >
-  <img src="https://i.pinimg.com/originals/c1/09/f8/c109f881992bf2ecc2faad720a31be3f.gif" width="500" height="300" />
-</p> 
 
   
-<h1 align="center">Hi 👋, I'm dg2c4</h1>
 - 👨‍💻 All of my projects are available at [https//:.es.co](https//:.es.co)
 
 
