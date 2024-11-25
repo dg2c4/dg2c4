@@ -1,8 +1,11 @@
 # _About Me:_
 
-<p align="\raggedleft" >
-  <img src="https://i.pinimg.com/originals/ed/24/16/ed241641f62d5257e7cdd75715823846.gif" width="500" height="300" />
-</p> 
+
+
+<br clear="both">
+<img align="right" height="200" src="[https://i.imgflip.com/65efzo.gif](https://i.pinimg.com/originals/ed/24/16/ed241641f62d5257e7cdd75715823846.gif)"  />
+
+
 
 <p align="rigth" >
   <img src="https://i.pinimg.com/originals/c1/09/f8/c109f881992bf2ecc2faad720a31be3f.gif" width="500" height="300" />
@@ -12,7 +15,6 @@
 <h1 align="center">Hi 👋, I'm dg2c4</h1>
 - 👨‍💻 All of my projects are available at [https//:.es.co](https//:.es.co)
 
-- 📫 How to reach me **davidchavesgutierrez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -106,6 +108,18 @@
 
 
 
+# _About Me:_
+<br clear="both">
+<div align="center">
+  <img src="" width="52" height="40" alt="linkedin logo"  />
+  <img src="" width="52" height="40" alt="gmail logo"  />
+  <img src="" width="52" height="40" alt="discord logo"  />
+  <img src="" width="52" height="40" alt="instagram logo"  />
+  <img src="" width="52" height="40" alt="facebook logo"  />
+  <img src="" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
 
 
 ###
