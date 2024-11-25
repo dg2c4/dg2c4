@@ -2,7 +2,7 @@
 
 
 
-<p align="center" >
+<p align="\raggedleft" >
   <img src="https://i.pinimg.com/originals/ed/24/16/ed241641f62d5257e7cdd75715823846.gif" width="500" height="300" />
 </p> 
 
