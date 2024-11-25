@@ -3,11 +3,10 @@
 
 
 <br clear="both">
-<img align="right" height="200" src="[https://i.imgflip.com/65efzo.gif](https://i.pinimg.com/originals/ed/24/16/ed241641f62d5257e7cdd75715823846.gif)"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/c1/09/f8/c109f881992bf2ecc2faad720a31be3f.gif"  />
+###
 
-
-
-<p align="rigth" >
+<p clear="both" >
   <img src="https://i.pinimg.com/originals/c1/09/f8/c109f881992bf2ecc2faad720a31be3f.gif" width="500" height="300" />
 </p> 
 
