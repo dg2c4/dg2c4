@@ -1,16 +1,25 @@
+# _About Me:_
+
+
+
+
+
 <p align="\raggedleft" >
   <img src="https://i.pinimg.com/originals/ed/24/16/ed241641f62d5257e7cdd75715823846.gif" width="500" height="300" />
 </p> 
 
-<p align="center">Ingeniero De Sistemas</p>
 
-<p align="\rigthragged" >
+
+
+
+
+<p align="\rigth" >
   <img src="https://i.pinimg.com/originals/c1/09/f8/c109f881992bf2ecc2faad720a31be3f.gif" width="500" height="300" />
 </p> 
 
 
 <p align="center">
-  <img width="600" height="550" src="assets/logoLawyers.jpg" alt="Lawyer Company">
+  <img width="600" height="550" src="" alt="Lawyer Company">
 </p>
 
 # *Diseñadores: Lawyers Company* 
