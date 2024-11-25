@@ -7,7 +7,7 @@
 </p> 
 
 
-<p align="\raggedleft" >
+<p align="\raggedrigth" >
   <img src="https://i.pinimg.com/originals/c1/09/f8/c109f881992bf2ecc2faad720a31be3f.gif" width="500" height="300" />
 </p> 
 
@@ -15,6 +15,12 @@
 <p align="center">
   <img width="600" height="550" src="assets/logoLawyers.jpg" alt="Lawyer Company">
 </p>
+
+# *Diseñadores: Lawyers Company* 
+## *Estudiante: Juan Valero: 506221052*
+    https://github.com/ValerosoV 
+### *Email institucional:* juand.valerov@konradlorenz.edu.co   
+
 <!--
 **dg2c4/dg2c4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
