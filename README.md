@@ -1,6 +1,8 @@
 # _About Me:_
-
-
+Soy estudiante de ingenieria de sistemas 
+  <p align="center">
+    
+  </p>
 
 
 
@@ -13,7 +15,7 @@
 
 
 
-<p align="\rigth" >
+<p align="rigth" >
   <img src="https://i.pinimg.com/originals/c1/09/f8/c109f881992bf2ecc2faad720a31be3f.gif" width="500" height="300" />
 </p> 
 
