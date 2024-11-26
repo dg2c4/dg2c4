@@ -112,14 +112,14 @@
 
 <br clear="both">
 <div align="center">
-  <img src="https://www.linkedin.com/in/david-chaves-gutierrez-2920342ab/" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://www.linkedin.com/in/david-chaves-gutierrez-2920342ab/" width="52" height="40" alt="assets/Logo-Linkedin"  />
   <img src="davidchavesgutierrez@gmail.com" width="52" height="40" alt="gmail logo"  />
   <img src="daid2904#6779" width="52" height="40" alt="discord logo"  />
   <img src="https://www.instagram.com/dg2c4/" width="52" height="40" alt="instagram logo"  />
   <img src="https://www.facebook.com/dg2c4" width="52" height="40" alt="facebook logo"  />
   <img src="https://www.youtube.com/@dg2c4" width="52" height="40" alt="youtube logo"  />
 </div>
-
+<img width="600" height="550" src="assets/logoLawyers.jpg" alt="Lawyer Company">
 ###
 
 
