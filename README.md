@@ -1,4 +1,4 @@
-   
+      
 <h1 align="center">Hi 👋, I'm dg2c4</h1>
 
 ## _About Me:_
@@ -106,13 +106,12 @@
 
 
 # _Contact Me:_
-
 <br clear="both">
 <img align="right" height="200" src="https://i.pinimg.com/originals/84/53/be/8453bedc2350e1878e07bbb05cd13765.gif"  />
 
 <br clear="both">
 <div align="center">
-  <img src="https://www.linkedin.com/in/david-chaves-gutierrez-2920342ab/assets/Logo-Linkedin.png" width="52" height="40" alt="LogoLinkedin"  />
+  <img src="https://www.linkedin.com/in/david-chaves-gutierrez-2920342ab/assets/Logo-Linkedin.png" width="52" height="40" alt="Logo-Linkedin"  />
   <img src="davidchavesgutierrez@gmail.com" width="52" height="40" alt="gmail logo"  />
   <img src="daid2904#6779" width="52" height="40" alt="discord logo"  />
   <img src="https://www.instagram.com/dg2c4/" width="52" height="40" alt="instagram logo"  />
@@ -120,17 +119,6 @@
   <img src="https://www.youtube.com/@dg2c4" width="52" height="40" alt="youtube logo"  />
 </div>
 
-# Proyecto de Desarrollo Web
-
-Este proyecto demuestra mis habilidades en desarrollo web.
-
-![LinkedIn](assets/Logo-Linkedin)
-[Visite mi perfil de LinkedIn](https://www.linkedin.com/in/david-chaves-gutierrez-2920342ab/)
-
-###
-
-
-###
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
