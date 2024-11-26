@@ -112,7 +112,7 @@
 
 <br clear="both">
 <div align="center">
-  <img src="https://www.linkedin.com/in/david-chaves-gutierrez-2920342ab/assets/Logo-Linkedin" width="52" height="40" alt="LogoLinkedin"  />
+  <img src="https://www.linkedin.com/in/david-chaves-gutierrez-2920342ab/assets/Logo-Linkedin.png" width="52" height="40" alt="LogoLinkedin"  />
   <img src="davidchavesgutierrez@gmail.com" width="52" height="40" alt="gmail logo"  />
   <img src="daid2904#6779" width="52" height="40" alt="discord logo"  />
   <img src="https://www.instagram.com/dg2c4/" width="52" height="40" alt="instagram logo"  />
