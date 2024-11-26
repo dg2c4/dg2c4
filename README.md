@@ -6,11 +6,9 @@
 
 <br clear="both" >
 <img align="lefth" height="200" src="https://i.pinimg.com/originals/ed/24/16/ed241641f62d5257e7cdd75715823846.gif" />
-###
 
 <br clear="both">
 <img align="right" height="200" src="https://i.pinimg.com/originals/c1/09/f8/c109f881992bf2ecc2faad720a31be3f.gif"  />
-###
 
 
   
@@ -18,8 +16,6 @@
 
 
 <h3 align="left">Connect with me:</h3>
-
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
