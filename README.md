@@ -1,4 +1,4 @@
-
+   
 <h1 align="center">Hi 👋, I'm dg2c4</h1>
 
 ## _About Me:_
@@ -119,7 +119,14 @@
   <img src="https://www.facebook.com/dg2c4" width="52" height="40" alt="facebook logo"  />
   <img src="https://www.youtube.com/@dg2c4" width="52" height="40" alt="youtube logo"  />
 </div>
-<img width="600" height="550" src="assets/logoLawyers.jpg" alt="Lawyer Company">
+
+# Proyecto de Desarrollo Web
+
+Este proyecto demuestra mis habilidades en desarrollo web.
+
+![LinkedIn](assets/Logo-Linkedin)
+[Visite mi perfil de LinkedIn](https://www.linkedin.com/in/david-chaves-gutierrez-2920342ab/)
+
 ###
 
 
