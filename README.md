@@ -48,22 +48,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-
 <div align="center">
-<p # 👨‍💻 *Social networks:*
-      <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22633162/dg2c4" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
+    <section id="👨‍💻 *Social networks:">
+        <p>
+            <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22633162/dg2c4" target="blank">
+                  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
                   alt="dg2c4" height="30" width="40" /></a>
-      <a href="https://twitter.com/dg2c4" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+            <a href="https://twitter.com/dg2c4" target="blank">
+                  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
                   alt="dg2c4" height="30" width="40" /></a>
-      <a href="https://www.instagram.com/dg2c4/" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+            <a href="https://www.instagram.com/dg2c4/" target="blank">
+                  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
                   alt="dg2c4" height="30" width="40" /></a>
-      <a href="https://www.discordapp.com/users/daid2904" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+            <a href="https://www.discordapp.com/users/daid2904" target="blank">
+                  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
                   alt="dg2c4" height="30" width="40" /></a>
-      <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-chaves-gutierrez-2920342ab/" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-                  alt=dg2c4" height="30" width="40" /></a>>
-</p> </div>
+            <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-chaves-gutierrez-2920342ab/" target="blank">
+                  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+                  alt=dg2c4" height="30" width="40" /></a>>      
+        </p>
+    </section>
+</div>
