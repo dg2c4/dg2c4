@@ -49,7 +49,8 @@
 </div>
 
 <div align="center">
-    <section id="👨‍💻 *Social networks:">
+      <p>👨‍💻 *Social networks:</p>
+    <section id="Social networks">
         <p>
             <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22633162/dg2c4" target="blank">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
