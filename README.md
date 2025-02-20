@@ -1,30 +1,13 @@
       
-<h1 align="center">Hi 👋, I'm dg2c4</h1>
+<h1 align="center">Hi 🏍️ I'm dg2c4</h1>
 
 ## _About Me:_
-
 
 <br clear="both" >
 <img align="lefth" height="200" src="https://i.pinimg.com/originals/ed/24/16/ed241641f62d5257e7cdd75715823846.gif" />
 
 <br clear="both">
 <img align="right" height="200" src="https://i.pinimg.com/originals/c1/09/f8/c109f881992bf2ecc2faad720a31be3f.gif"  />
-
-
-  
-- 👨‍💻 All of my projects are available at [https//:.es.co](https//:.es.co)
-
-
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
 
 
 <p align="left">
@@ -56,23 +39,8 @@
   <img src="https:/&"  />
 </div>
 
-###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+# 🛠 *Language and tools*
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
@@ -92,40 +60,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-
-
-<!-- 
-<h3 align="left">🔥   My Stats :</h3>
-<div align="center">
-  <img src="https://&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
--->
-
-
-
-# _Contact Me:_
-<br clear="both">
-<img align="right" height="200" src="https://i.pinimg.com/originals/84/53/be/8453bedc2350e1878e07bbb05cd13765.gif"  />
-
-<br clear="both">
-<div align="center">
-  <img src="https://www.linkedin.com/in/david-chaves-gutierrez-2920342ab/assets/Logo-Linkedin.png" width="52" height="40" alt="Logo-Linkedin"  />
-  <img src="davidchavesgutierrez@gmail.com" width="52" height="40" alt="gmail logo"  />
-  <img src="daid2904#6779" width="52" height="40" alt="discord logo"  />
-  <img src="https://www.instagram.com/dg2c4/" width="52" height="40" alt="instagram logo"  />
-  <img src="https://www.facebook.com/dg2c4" width="52" height="40" alt="facebook logo"  />
-  <img src="https://www.youtube.com/@dg2c4" width="52" height="40" alt="youtube logo"  />
-</div>
-
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -141,3 +75,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+
+# 👨‍💻 *Social networks*
+<p>
+  <a href="https://www.instagram.com/dg2c4/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+    alt="hvnt3rk3ys" height="30" width="40" />
+  </a>
+  <a href="https://www.discordapp.com/users/daid2904" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="manuel parra" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/david-chaves-gutierrez-2920342ab" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+    alt="hvnterkeys" height="30" width="40" />
+  </a>
+</p>
