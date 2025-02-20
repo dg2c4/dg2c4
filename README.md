@@ -46,12 +46,14 @@
 </div>
 
 
-<br clear="both" >
-<img align="lefth" height="200" src="https://i.pinimg.com/originals/ed/24/16/ed241641f62d5257e7cdd75715823846.gif" />
 
 
 ## 🛠 *Language and tools*
-<div align="left">
+
+<br clear="both" >
+<img align="lefth" height="200" src="https://i.pinimg.com/originals/ed/24/16/ed241641f62d5257e7cdd75715823846.gif" />
+
+<div align="rigth">
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
