@@ -50,7 +50,7 @@
 
 
 <div align="center">
-<p> # 👨‍💻 *Social networks:*
+<p # 👨‍💻 *Social networks:*
       <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22633162/dg2c4" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
                   alt="dg2c4" height="30" width="40" /></a>
@@ -65,5 +65,5 @@
                   alt="dg2c4" height="30" width="40" /></a>
       <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-chaves-gutierrez-2920342ab/" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-                  alt=dg2c4" height="30" width="40" /></a>
+                  alt=dg2c4" height="30" width="40" /></a>>
 </p> </div>
