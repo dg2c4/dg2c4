@@ -48,9 +48,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+
+# 👨‍💻 *Social networks:*
 <div align="center">
-      <p>👨‍💻 *Social networks:</p>
-    <section id="Social networks">
         <p>
             <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22633162/dg2c4" target="blank">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
@@ -68,5 +68,4 @@
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
                   alt=dg2c4" height="30" width="40" /></a>>      
         </p>
-    </section>
 </div>
