@@ -1,14 +1,14 @@
 # Hi! 🏍️ I'm dg2c4  
 <p align="center" >
-      <img align="lefth" height="200" src="https://i.pinimg.com/originals/ed/24/16/ed241641f62d5257e7cdd75715823846.gif" width="500" height="300" />
+      <img align="lefth" height="200" src="https://github.com/user-attachments/assets/d22608c3-8693-40e6-a383-7b812f9d2940" width="600" height="300" />
 </p>
 
+
 ## *About Me*
-<div align="left">
-      <p>
-            dg2c4      
-      </p>
-</div>
+💻 I work as a software engineer with 3 years of experience 📅, currently in my final semester of Software Engineering 🎓.
+👷‍♂️ Student member of the Colombian Society of Engineers 🇨🇴, I’m passionate about 💡 learning new technological trends 🌐 and applying my knowledge to innovative projects 🚀.
+🤝 I excel in teamwork, taking on leadership roles 👨‍💼 when needed, and showing commitment to success 🏆 in every challenge.
+📚 I enjoy acquiring new skills to strengthen my performance as a software engineer 🔧💻.     
 
 
 ## 🎮 *Programming languages & Tools*
