@@ -40,14 +40,14 @@
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" 
                         alt="typescript logo"/> </a>
             <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer">
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" 
-                        alt="csharp logo"/> </a>
+                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
+                         alt="csharp logo" width="40" height="40"/> </a> 
             <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
-                        alt="php" width="40" height="40"/> </a>
+                        alt="php logo" width="40" height="40"/> </a>
             <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-                        alt="python" width="40" height="40"/> </a> 
+                        alt="python logo" width="40" height="40"/> </a> 
       </p>
 </div>
 
@@ -61,10 +61,10 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" 
                   alt="laravel" width="40" height="40"/></a> 
       <a href="https://html5.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
                   alt="html5" width="40" height="40"/></a> 
       <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
                   alt="css3" width="40" height="40"/></a> 
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" 
@@ -97,7 +97,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" 
                   alt="oracle" width="40" height="40"/></a> 
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" 
                   alt="photoshop" width="40" height="40"/></a> 
       <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" 
@@ -133,16 +133,16 @@
             <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
                   alt="flutter" width="40" height="40"/></a> 
       <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" 
+            <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="40" alt="kubernetes logo"
                   alt="framer" width="40" height="40"/></a> 
       <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-            <img src="https://angular.io/assets/images/logos/angular/angular.svg" 
+            <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="40" alt="Angular Logo"
                   alt="angular" width="40" height="40"/></a>
       <a href="https://www.android.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg"
                   alt="android" width="40" height="40"/></a>
       <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"
                   alt="android studio" width="40" height="40"/></a>
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
@@ -151,37 +151,37 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
                   alt="docker" width="40" height="40"/></a> 
       <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
                   alt="kubernetes" width="40" height="40"/></a>
       <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress"
+            <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"
                   alt="github" width="40" height="40"/></a>
       <a href="https://webflow.com/" target="_blank" rel="noreferrer">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" height="40" alt="WebFlow"
+            <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg"
                   alt="github" width="40" height="40"/></a>
       <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" height="40" alt="Neo4j Logo"
+            <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg"
                   alt="neo4j" width="40" height="40"/></a>
       <a href="https://es.overleaf.com/project" target="_blank" rel="noreferrer">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" height="40" alt="Latex"
+            <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"
                   alt="latex" width="40" height="40"/></a>
       <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Juphyter Notebook"
+            <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"
                   alt="jupyther" width="40" height="40"/></a>
       <a href="https://unity.com/es" target="_blank" rel="noreferrer">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" height="40" alt="Unity"
+            <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg"
                   alt="unity" width="40" height="40"/></a>
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" height="40" alt="Visual Studio"
+            <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg"
                   alt="visual studio" width="40" height="40"/></a>
       <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" height="40" alt="Vercel"
+            <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg"
                   alt="vercel" width="40" height="40"/></a>
       <a href="https://github.com/features/codespaces" target="_blank" rel="noreferrer">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/githubcodespaces/githubcodespaces-original.svg" height="40" alt="GitHub CodeSpaces"
+            <img src="https://github.com/devicons/devicon/blob/master/icons/githubcodespaces/githubcodespaces-original.svg"
                   alt="github codespaces" width="40" height="40"/></a>
       <a href="https://github.com/" target="_blank" rel="noreferrer">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height="40" alt="GitHub Logo"
+            <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" 
                   alt="github" width="40" height="40"/></a>            
        </p>
 </div>
