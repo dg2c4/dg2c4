@@ -3,16 +3,16 @@
       <img align="lefth" src="https://github.com/user-attachments/assets/d22608c3-8693-40e6-a383-7b812f9d2940" width="600" height="300" />
 </p>
 
-## *About Me*
+## 🛰️ *About Me*
 💻 My most recent job has been as an Analyst📅, I am currently in the fifth semester of Systems Engineering🎓. 
 
-🤝 I stand out for teamwork, assuming leadership roles when necessary and showing commitment to success in each proposed challenge🏆.
+🌌 I stand out for teamwork, assuming leadership roles when necessary and showing commitment to success in each proposed challenge🏆.
 
 🚀 I am constantly learning about new technological trends, applying my knowledge to innovative projects and participating in challenges to test myself🌐.
 
 📚 I enjoy acquiring new skills to strengthen my performance and competencies as a systems engineer💻.
 
-## 🎮 *Programming languages & Tools*
+## 🎮 *Programming languages & Tools* 👾
 <div align="center">
       <p>
             <a href="https://www.java.com" target="_blank" rel="noreferrer">
