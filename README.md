@@ -4,7 +4,7 @@
 </p>
 
 ## *About Me*
-💻 My most recent job has been working as an Analyst📅, I am currently in the last fifth semester of Systems Engineering🎓. 
+💻 My most recent job has been as an Analyst📅, I am currently in the fifth semester of Systems Engineering🎓. 
 
 🤝 I stand out for teamwork, assuming leadership roles when necessary and showing commitment to success in each proposed challenge🏆.
 
@@ -55,8 +55,14 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
                   alt="react" width="40" height="40"/> </a>
       <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" 
                   alt="laravel" width="40" height="40"/> </a> 
+      <a href="https://html5.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"
+                  alt="html5" width="40" height="40"/> </a> 
+      <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css5-original.svg" height="30" alt="css3 logo"
+                  alt="css5" width="40" height="40"/> </a> 
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" 
                   alt="arduino" width="40" height="40"/> </a> 
@@ -148,26 +154,20 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" 
                   alt="android" width="40" height="40"/> </a>
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
                    alt="firebase logo" width="40" height="40"/> </a>
-
-      
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />  
+      <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+                  alt="react" width="40" height="40"/> </a> 
+      <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+                  alt="amazon web servicies" width="40" height="40"/> </a> 
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
+                  alt="docker" width="40" height="40"/> </a> 
+      <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"
+                  alt="kubernetes" width="40" height="40"/> </a>
        </p>
 </div>
 
@@ -183,7 +183,7 @@
             <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-chaves-gutierrez-2920342ab/" target="blank">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
                         alt=dg2c4" height="30" width="40" /></a>   
-            <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22633162/dg2c4" target="blank">
+            <a href="https://stackoverflow.com/users/22633162/dg2c4" target="blank">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
                         alt="dg2c4" height="30" width="40" /></a>
             <a href="https://twitter.com/dg2c4" target="blank">
