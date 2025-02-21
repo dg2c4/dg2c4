@@ -91,11 +91,8 @@
             <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" 
                   alt="illustrator" width="40" height="40"/></a>
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" 
                   alt="photoshop" width="40" height="40"/></a>
-      <a href="https://www.adobe.com/co/products/illustrator.html" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" 
-                  alt="Ilustrator Adobe" width="40" height="40"/></a>
       <a href="https://www.adobe.com/co/products/aftereffects.html" target="_blank" rel="noreferrer"> 
             <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" 
                   alt="After Effects" width="40" height="40"/></a>
@@ -134,13 +131,13 @@
                   alt="vuetify" width="40" height="40"/></a>
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.worldvectorlogo.com/logos/django.svg" 
-                  alt="django" width="40" height="40"/></a> 
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
-                  alt="figma" width="40" height="40"/></a> 
+                  alt="django" width="40" height="40"/></a>  
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" 
                   alt="firebase" width="40" height="40"/></a> 
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
+                  alt="figma" width="40" height="40"/></a>
       <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
                   alt="flutter" width="40" height="40"/></a> 
