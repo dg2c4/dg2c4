@@ -103,7 +103,7 @@
             <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" 
                   alt="nativescript" width="40" height="40"/></a> 
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" 
                   alt="nextjs" width="40" height="40"/></a> 
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
@@ -153,9 +153,36 @@
       <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"
                   alt="kubernetes" width="40" height="40"/></a>
-      <a href="https://github.com/" target="_blank" rel="noreferrer">
-            <img src="https://github.com/devicons/devicon/tree/master/icons/aarch64" height="40" alt="GitHub logo"
+      <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress"
                   alt="github" width="40" height="40"/></a>
+      <a href="https://webflow.com/" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" height="40" alt="WebFlow"
+                  alt="github" width="40" height="40"/></a>
+      <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" height="40" alt="Neo4j Logo"
+                  alt="neo4j" width="40" height="40"/></a>
+      <a href="https://es.overleaf.com/project" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex.eps" height="40" alt="Latex"
+                  alt="latex" width="40" height="40"/></a>
+      <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Juphyter Notebook"
+                  alt="jupyther" width="40" height="40"/></a>
+      <a href="https://unity.com/es" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" height="40" alt="Unity"
+                  alt="unity" width="40" height="40"/></a>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" height="40" alt="Visual Studio"
+                  alt="visual studio" width="40" height="40"/></a>
+      <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" height="40" alt="Vercel"
+                  alt="vercel" width="40" height="40"/></a>
+      <a href="https://github.com/features/codespaces" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/githubcodespaces/githubcodespaces-original.svg" height="40" alt="GitHub CodeSpaces"
+                  alt="github codespaces" width="40" height="40"/></a>
+      <a href="https://github.com/" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height="40" alt="GitHub Logo"
+                  alt="github" width="40" height="40"/></a>            
        </p>
 </div>
 
@@ -164,18 +191,18 @@
         <p>
             <a href="https://www.instagram.com/dg2c4/" target="blank">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-                        alt="dg2c4" height="30" width="40" /></a>
+                        alt="dg2c4" height="30" width="40" /> </a>
             <a href="https://www.discordapp.com/users/daid2904" target="blank">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-                        alt="dg2c4" height="30" width="40" /></a>
+                        alt="dg2c4" height="30" width="40" /> </a>
             <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-chaves-gutierrez-2920342ab/" target="blank">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-                        alt=dg2c4" height="30" width="40" /></a>   
+                        alt=dg2c4" height="30" width="40" /> </a>   
             <a href="https://stackoverflow.com/users/22633162/dg2c4" target="blank">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
-                        alt="dg2c4" height="30" width="40" /></a>
+                        alt="dg2c4" height="30" width="40" /> </a>
             <a href="https://twitter.com/dg2c4" target="blank">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-                        alt="dg2c4" height="30" width="40" /></a>
+                        alt="dg2c4" height="30" width="40" /> </a>
         </p>
 </div>
