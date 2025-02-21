@@ -11,10 +11,7 @@
             dg2c4      
       </p>
 </div>
-
-<br clear="both" >
 <img align="lefth" height="200" src="https://i.pinimg.com/originals/ed/24/16/ed241641f62d5257e7cdd75715823846.gif" />
-
 
 ## 🎮 *Programming languages & Tools*
 <div align="center">
