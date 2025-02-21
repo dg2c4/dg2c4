@@ -1,15 +1,13 @@
 # Hi! 🏍️ I'm dg2c4  
 <p align="center" >
-      <img align="lefth" height="200" src="https://github.com/user-attachments/assets/d22608c3-8693-40e6-a383-7b812f9d2940" width="600" height="300" />
+      <img align="lefth" src="https://github.com/user-attachments/assets/d22608c3-8693-40e6-a383-7b812f9d2940" width="600" height="300" />
 </p>
 
-
 ## *About Me*
-💻 I work as a software engineer with 3 years of experience 📅, currently in my final semester of Software Engineering 🎓.
-👷‍♂️ Student member of the Colombian Society of Engineers 🇨🇴, I’m passionate about 💡 learning new technological trends 🌐 and applying my knowledge to innovative projects 🚀.
-🤝 I excel in teamwork, taking on leadership roles 👨‍💼 when needed, and showing commitment to success 🏆 in every challenge.
-📚 I enjoy acquiring new skills to strengthen my performance as a software engineer 🔧💻.     
-
+💻 My most recent job has been working as an Analyst📅, I am currently in the last fifth semester of Systems Engineering🎓.
+🤝 I stand out for teamwork, assuming leadership roles when necessary and showing commitment to success in each proposed challenge🏆.
+🚀 I am constantly learning about new technological trends, applying my knowledge to innovative projects and participating in challenges to test myself🌐.
+📚 I enjoy acquiring new skills to strengthen my performance and competencies as a systems engineer💻.
 
 ## 🎮 *Programming languages & Tools*
 <div align="center">
@@ -46,7 +44,6 @@
                   alt="python" width="40" height="40"/> </a> 
       </p>
 </div>
-
 
 ## 🛠 *Tools and frameworks*
 <div align="center">
@@ -104,7 +101,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />  
 </div>
-
 
 ## 👨‍💻 *Social networks*
 <div align="center">
