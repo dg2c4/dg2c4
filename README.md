@@ -4,7 +4,7 @@
 </p>
 
 ## *About Me*
-💻 My most recent job has been working as an Analyst📅, I am currently in the last fifth semester of Systems Engineering🎓.
+💻 My most recent job has been working as an Analyst📅, I am currently in the last fifth semester of Systems Engineering🎓. \n
 🤝 I stand out for teamwork, assuming leadership roles when necessary and showing commitment to success in each proposed challenge🏆.
 🚀 I am constantly learning about new technological trends, applying my knowledge to innovative projects and participating in challenges to test myself🌐.
 📚 I enjoy acquiring new skills to strengthen my performance and competencies as a systems engineer💻.
