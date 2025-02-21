@@ -67,7 +67,7 @@
             <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" 
                   alt="arduino" width="40" height="40"/></a> 
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
                   alt="aws" width="40" height="40"/></a> 
       <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" 
@@ -79,7 +79,7 @@
             <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" 
                   alt="blender" width="40" height="40"/></a> 
       <a href="https://getbootstrap.com" target="_white" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" 
                   alt="bootstrap" width="40" height="40"/></a> 
       <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" 
@@ -150,18 +150,15 @@
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
                    alt="firebase logo" width="40" height="40"/></a>
-      <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-                  alt="react" width="40" height="40"/></a> 
-      <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-                  alt="amazon web servicies" width="40" height="40"/></a> 
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
                   alt="docker" width="40" height="40"/></a> 
       <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"
                   alt="kubernetes" width="40" height="40"/></a>
+      <a href="https://github.com/" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/tree/master/icons/aarch64" height="40" alt="GitHub logo"
+                  alt="github" width="40" height="40"/></a>
        </p>
 </div>
 
