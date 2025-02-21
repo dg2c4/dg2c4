@@ -36,9 +36,6 @@
             <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
                   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
                         alt="linux" width="40" height="40"/> </a> 
-            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" 
-                        alt="typescript logo"/> </a>
             <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer">
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
                          alt="csharp logo" width="40" height="40"/> </a> 
@@ -57,10 +54,10 @@
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
                   alt="react" width="40" height="40"/></a>
-      <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" 
-                  alt="laravel" width="40" height="40"/></a> 
-      <a href="https://html5.org/" target="_blank" rel="noreferrer">
+      <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+            <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="40" alt="Angular Logo"
+                  alt="angular" width="40" height="40"/></a>
+       <a href="https://html5.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
                   alt="html5" width="40" height="40"/></a> 
       <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
@@ -69,6 +66,9 @@
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" 
                   alt="arduino" width="40" height="40"/></a> 
+      <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" 
+                  alt="laravel" width="40" height="40"/></a> 
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
             <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
                   alt="aws" width="40" height="40"/></a> 
@@ -89,10 +89,7 @@
                   alt="gcp" width="40" height="40"/></a> 
       <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" 
-                  alt="illustrator" width="40" height="40"/></a> 
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-                  alt="linux" width="40" height="40"/></a> 
+                  alt="illustrator" width="40" height="40"/></a>
       <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" 
                   alt="oracle" width="40" height="40"/></a> 
@@ -111,9 +108,6 @@
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
                   alt="tailwind" width="40" height="40"/></a> 
-      <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" 
-                  alt="unity" width="40" height="40"/></a> 
       <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" 
                   alt="vuejs" width="40" height="40"/></a> 
@@ -135,9 +129,6 @@
       <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="40" alt="kubernetes logo"
                   alt="framer" width="40" height="40"/></a> 
-      <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-            <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="40" alt="Angular Logo"
-                  alt="angular" width="40" height="40"/></a>
       <a href="https://www.android.com/" target="_blank" rel="noreferrer"> 
             <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg"
                   alt="android" width="40" height="40"/></a>
