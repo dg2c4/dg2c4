@@ -163,7 +163,7 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" height="40" alt="Neo4j Logo"
                   alt="neo4j" width="40" height="40"/></a>
       <a href="https://es.overleaf.com/project" target="_blank" rel="noreferrer">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex.eps" height="40" alt="Latex"
+            <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" height="40" alt="Latex"
                   alt="latex" width="40" height="40"/></a>
       <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
             <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Juphyter Notebook"
