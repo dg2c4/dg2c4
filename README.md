@@ -73,7 +73,7 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
                   alt="aws" width="40" height="40"/></a> 
       <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" 
                   alt="azure" width="40" height="40"/></a> 
       <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" 
@@ -150,6 +150,9 @@
       <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
             <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"
                   alt="android studio" width="40" height="40"/></a>
+      <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg"
+                  alt="Eclipse" width="40" height="40"/></a>
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
                    alt="firebase logo" width="40" height="40"/></a>
