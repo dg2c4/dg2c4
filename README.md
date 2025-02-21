@@ -26,13 +26,16 @@
                         alt="typescript" width="40" height="40"/> </a> 
             <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
                   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" 
-                        alt="kotlin" width="40" height="40"/> </a> 
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-                  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-                        alt="git" width="40" height="40"/> </a> 
+                        alt="kotlin" width="40" height="40"/> </a>
             <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" 
                         alt="swift" width="40" height="40"/> </a> 
+            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+                  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+                        alt="git" width="40" height="40"/> </a>
+            <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+                  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
+                        alt="linux" width="40" height="40"/> </a> 
             <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" 
                         alt="typescript logo"/> </a>
@@ -84,9 +87,6 @@
       <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" 
                   alt="gcp" width="40" height="40"/></a> 
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-                  alt="html5" width="40" height="40"/></a> 
       <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" 
                   alt="illustrator" width="40" height="40"/></a> 
@@ -123,9 +123,6 @@
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.worldvectorlogo.com/logos/django.svg" 
                   alt="django" width="40" height="40"/></a> 
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
-                  alt="docker" width="40" height="40"/></a> 
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
                   alt="figma" width="40" height="40"/></a> 
@@ -139,14 +136,14 @@
             <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" 
                   alt="framer" width="40" height="40"/></a> 
       <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" 
-                  alt="angularjs" width="40" height="40"/></a> 
-      <a href="https://angular.io" target="_blank" rel="noreferrer"> 
             <img src="https://angular.io/assets/images/logos/angular/angular.svg" 
-                  alt="angular" width="40" height="40"/></a> 
-      <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" 
+                  alt="angular" width="40" height="40"/></a>
+      <a href="https://www.android.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" 
                   alt="android" width="40" height="40"/></a>
+      <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" 
+                  alt="android studio" width="40" height="40"/></a>
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
                    alt="firebase logo" width="40" height="40"/></a>
