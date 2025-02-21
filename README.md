@@ -1,9 +1,8 @@
       
 # Hi! 🏍️ I'm dg2c4
-
-<div align="center">
-      <img align="lefth" height="200" src="https://i.pinimg.com/originals/ed/24/16/ed241641f62d5257e7cdd75715823846.gif" />
-</div>
+<p align="center" >
+      <img align="lefth" height="200" src="https://i.pinimg.com/originals/ed/24/16/ed241641f62d5257e7cdd75715823846.gif" width="500" height="300" />
+</p>
 
 ## *About Me*
 <div align="rigth">
