@@ -17,47 +17,51 @@
       <p>
             <a href="https://www.java.com" target="_blank" rel="noreferrer">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-                  alt="java" width="40" height="40"/> </a> 
+                        alt="java" width="40" height="40"/> </a> 
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-                  alt="javascript" width="40" height="40"/> </a>  
+                        alt="javascript" width="40" height="40"/> </a>  
             <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
-                  alt="typescript" width="40" height="40"/> </a> 
+                        alt="typescript" width="40" height="40"/> </a> 
             <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
                   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" 
-                  alt="kotlin" width="40" height="40"/> </a> 
+                        alt="kotlin" width="40" height="40"/> </a> 
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
                   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-                  alt="git" width="40" height="40"/> </a> 
+                        alt="git" width="40" height="40"/> </a> 
             <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" 
-                  alt="swift" width="40" height="40"/> </a> 
+                        alt="swift" width="40" height="40"/> </a> 
             <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" 
-                  alt="typescript logo"/> </a>
+                        alt="typescript logo"/> </a>
             <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" 
-                    alt="csharp logo"/> </a>
+                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" 
+                        alt="csharp logo"/> </a>
             <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
-                  alt="php" width="40" height="40"/> </a>
+                        alt="php" width="40" height="40"/> </a>
             <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-                  alt="python" width="40" height="40"/> </a> 
+                        alt="python" width="40" height="40"/> </a> 
       </p>
 </div>
 
 ## 🛠 *Tools and frameworks*
 <div align="center">
-                  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
-                   alt="react" width="40" height="40"/> </a>
-
-                  
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+      <p>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
+            alt="react" width="40" height="40"/> </a>
+      <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" 
+                  alt="laravel" width="40" height="40"/> </a> 
+      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" 
+                  alt="arduino" width="40" height="40"/> </a> 
+      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
@@ -103,6 +107,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />  
+       </p>
 </div>
 
 ## 👨‍💻 *Social networks*
@@ -110,18 +115,18 @@
         <p>
             <a href="https://www.instagram.com/dg2c4/" target="blank">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-                  alt="dg2c4" height="30" width="40" /></a>
+                        alt="dg2c4" height="30" width="40" /></a>
             <a href="https://www.discordapp.com/users/daid2904" target="blank">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-                  alt="dg2c4" height="30" width="40" /></a>
+                        alt="dg2c4" height="30" width="40" /></a>
             <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-chaves-gutierrez-2920342ab/" target="blank">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-                  alt=dg2c4" height="30" width="40" /></a>   
+                        alt=dg2c4" height="30" width="40" /></a>   
             <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22633162/dg2c4" target="blank">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
-                  alt="dg2c4" height="30" width="40" /></a>
+                        alt="dg2c4" height="30" width="40" /></a>
             <a href="https://twitter.com/dg2c4" target="blank">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-                  alt="dg2c4" height="30" width="40" /></a>
+                        alt="dg2c4" height="30" width="40" /></a>
         </p>
 </div>
