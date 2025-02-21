@@ -2,7 +2,7 @@
 # Hi! 🏍️ I'm dg2c4
 
 <div align="center">
-  <img height="150" src="https://github.com/user-attachments/assets/95d26ada-9f10-407e-bcc9-8722ec350497"  />
+      <img align="lefth" height="200" src="https://i.pinimg.com/originals/ed/24/16/ed241641f62d5257e7cdd75715823846.gif" />
 </div>
 
 ## *About Me*
@@ -10,7 +10,6 @@
       <p>
             dg2c4      
       </p>
-      <img align="lefth" height="200" src="https://i.pinimg.com/originals/ed/24/16/ed241641f62d5257e7cdd75715823846.gif" />
 </div>
 
 
@@ -110,7 +109,7 @@
 
 
 ## 👨‍💻 *Social networks*
-<div align="rigth">
+<div align="center">
         <p>
             <a href="https://www.instagram.com/dg2c4/" target="blank">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
