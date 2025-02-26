@@ -197,7 +197,10 @@
                   alt="github codespaces" width="40" height="40"/></a>
       <a href="https://github.com/" target="_blank" rel="noreferrer">
             <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" 
-                  alt="github" width="40" height="40"/></a>            
+                  alt="github" width="40" height="40"/></a>
+      <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" 
+                  alt="gitlab" width="40" height="40"/></a>
        </p>
 </div>
 
