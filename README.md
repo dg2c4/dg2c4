@@ -42,9 +42,6 @@
             <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
                         alt="php logo" width="40" height="40"/> </a>
-            <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
-                  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Light.svg" 
-                        alt="php logo" width="40" height="40"/> </a>
             <a href="https://www.python.org/" target="_blank" rel="noreferrer">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
                         alt="python logo" width="40" height="40"/> </a> 
@@ -186,6 +183,9 @@
       <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
             <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"
                   alt="jupyther" width="40" height="40"/></a>
+      <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Light.svg" 
+                  alt="php logo" width="40" height="40"/> </a>
       <a href="https://unity.com/es" target="_blank" rel="noreferrer">
             <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg"
                   alt="unity" width="40" height="40"/></a>
