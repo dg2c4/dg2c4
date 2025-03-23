@@ -1,6 +1,6 @@
 # Hi! 🏍️ I'm dg2c4  
 <p align="center" >
-      <img align="lefth" src="https://github.com/user-attachments/assets/d22608c3-8693-40e6-a383-7b812f9d2940" width="600" height="300" />
+      <img align="lefth" src="" width="600" height="300" />
 </p>
 
 ## 🛰️ *About Me*
