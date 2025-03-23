@@ -1,7 +1,10 @@
 # Hi! 🏍️ I'm dg2c4  
 <p align="center" >
-      <img align="lefth" src="" width="600" height="300" />
+      <img align="lefth" src="https://github.com/user-attachments/assets/6dcef519-9730-484a-9bf4-7cf72f9de05a" width="800" height="250" />
 </p>
+
+
+
 
 ## 🛰️ *About Me*
 💻 My most recent job has been as an Analyst📅, I am currently in the fifth semester of Systems Engineering🎓. 
